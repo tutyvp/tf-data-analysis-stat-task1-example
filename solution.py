@@ -6,7 +6,7 @@ chat_id = 460411293 # Ваш chat ID, не меняйте название пе�
 
 
 def solution(x: np.array) -> float:
-# v = a*t
-t = 10
-v = np.min(x) + 37
-return v/t
+  # v = a*t
+  t = 10
+  v = np.min(x) + 37
+  return v/t
